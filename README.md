@@ -150,14 +150,13 @@ class _PickerPageState extends State<PickerPage> {
 enum PickerType { colorPicker, blockPicker, slidePicker }
 
 ```
+<div style="float:left">
 
-![s1](https://user-images.githubusercontent.com/89924493/145298603-9a37bd25-4e7f-4d6b-82c0-fd1fd6686588.PNG)
-
-![s2](https://user-images.githubusercontent.com/89924493/145299236-810aad9c-70f8-4cf9-8011-9a2808d38828.PNG)
-
-![s3](https://user-images.githubusercontent.com/89924493/145299345-b1f40817-dae9-4863-a56e-b7ba82b315af.PNG)
-
-![s4](https://user-images.githubusercontent.com/89924493/145299479-8cf578a7-6785-4c0c-898e-c4973b3bbe51.PNG)
+<img width="200" height="400"  style="float:left" src= "https://user-images.githubusercontent.com/89924493/145298603-9a37bd25-4e7f-4d6b-82c0-fd1fd6686588.PNG" />
+<img width="200" height="400"  style="float:left" src= "https://user-images.githubusercontent.com/89924493/145299236-810aad9c-70f8-4cf9-8011-9a2808d38828.PNG" />
+<img width="200" height="400"  style="float:left" src= "https://user-images.githubusercontent.com/89924493/145302596-c16b0cbb-5b36-4eb2-b598-2382d679f5db.PNG" />
+<img width="200" height="400"  style="float:left" src= "https://user-images.githubusercontent.com/89924493/145302190-baab6c78-beef-43f3-944e-1b1bb1e9fd88.PNG" />
+</div>
 
 A few resources to get you started if this is your first Flutter project:
 
